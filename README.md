@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20Paul%20Johnston!&fontSize=40" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20Coolster%20Codes!&fontSize=40" alt="banner"/>
 </p>
 
 <!-- Introduction -->
